@@ -1,24 +1,3 @@
 {
-  "clientes": [
-    {
-      "id": "2953",
-      "nombre": "Jorge",
-      "apellido": "Fonseca Murillo",
-      "email": "jorge.fonseca22f@gmail.com",
-      "telefono": "301-244-0144",
-      "empresa": "Softpyme",
-      "cargo": "Desarrollador",
-      "estado": 1
-    },
-    {
-      "id": "2955",
-      "nombre": "Jorge",
-      "apellido": "Fonseca Murillo",
-      "email": "jorge.fonseca22f@gmail.com",
-      "telefono": "301-244-0144",
-      "empresa": "Softpyme",
-      "cargo": "Desarrollador",
-      "estado": 0
-    }
-  ]
+  "clientes": []
 }
